@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^about$ /about.html [L]
+RewriteRule ^wedding-party$ /wedding-party.html [L]
+RewriteRule ^location$ /location.html [L]
+RewriteRule ^things-to-do$ /things.html [L]
+RewriteRule ^registry$ /registry.html [L]
