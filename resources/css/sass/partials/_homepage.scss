@@ -12,11 +12,24 @@
 
 #window #content.homepage #story h2{
 	font-size:20px;
+	padding-bottom:5px;
+}
+#window #content.homepage #story h3{
+	font-size:14px;
 	padding-bottom:15px;
 }
 
-#window #content.homepage #story p{
+#window #content.homepage #story .poem{
+	-moz-column-width: 20em; 
+	-webkit-column-width: 20em; 
+	
+	-moz-column-gap: 1em; 
+	-webkit-column-gap: 1em;
+}
 
+#window #content.homepage #story .poem p{
+	padding-bottom:10px;
+	font-style:italic;
 }
 
 #window #content.homepage ul{
