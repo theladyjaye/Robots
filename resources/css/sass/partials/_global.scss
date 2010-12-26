@@ -1,0 +1,68 @@
+
+body {
+	margin:0;
+	padding:0;
+	background: #fcfaf4 url("../images/background-body.png") repeat-x top left;
+	/*background: -moz-linear-gradient(top, #fcf6e9 35%, #fcfaf4 65%) no-repeat;
+	background: -webkit-gradient(linear, 0 0, 0 35%, from(#fcf6e9), to(#fcfaf4)) no-repeat;
+	*/
+	font-family: helvetica, verdana, sans-serif;
+	font-size:12px;
+	color:#756b59;
+}
+
+h1,h2,h3{
+	font-family: "HelveticaNeueUltraLight", helvetica, verdana, sans-serif;
+	font-weight:normal;
+	font-style: normal;
+}
+
+a{
+	color:#756b59;
+}
+
+
+#window {
+	width:872px;
+	padding-top:62px;
+	background:url("../images/background-birds.png") no-repeat 257px 0px;
+}
+
+#window h1{
+	color:#756b59;
+	font-size:22px;
+	margin-left:285px;
+	padding-bottom:5px;
+}
+
+#window #hero {
+	width: 282px;
+	background-color:#fade6c;
+	height:201px;
+}
+
+#window #hero img{
+	margin-left:284px;
+}
+
+#window #hero div{
+	height:27px;
+	width:300px;
+	position:absolute;
+	text-align:right;
+	margin-top:166px;
+	color:#fff;
+	font-size:22px;
+	padding:4px 13px 0 0;
+	background:rgba(143, 128, 101, 0.8);
+	font-family: "HelveticaNeueUltraLight", helvetica, verdana, sans-serif;
+}
+
+
+#window #content{
+	margin-left:284px;
+	margin-top:12px;
+	padding-top:12px;
+	width:595px;
+	background:url("../images/border-2px.png") repeat-x top left;
+}

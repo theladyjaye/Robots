@@ -1,0 +1,48 @@
+#window #hero.registry div{
+	width:86px;
+	margin-left:776px;
+}
+
+#window #content.registry p{
+	background:url("../images/border-2px.png") repeat-x bottom left;
+	padding-bottom:12px;
+	margin-bottom:12px;
+}
+
+#window #content.registry ul li{
+	-moz-border-radius: 7px; 
+	-webkit-border-radius: 7px;
+	border-radius:7px;
+	width:595px;
+	height:72px;
+	border:1px solid #e1dfdc;
+	margin-bottom:7px;
+}
+
+#window #content.registry ul li a{
+	width:595px;
+	height:72px;
+	display:block;
+	text-indent:-5000em;
+}
+
+#window #content.registry ul li.crate-barrel{
+	background:#fff url("../images/registry-crate-barrel.gif") no-repeat 18px 18px;
+}
+
+#window #content.registry ul li.branch{
+	background:#fff url("../images/registry-branch.jpg") no-repeat left top;
+}
+
+#window #content.registry ul li.west-elm{
+	background:#d9d9d9 url("../images/registry-west-elm.gif") no-repeat 10px 3px;
+}
+
+#window #content.registry ul li.just-give{
+	background:#fff url("../images/registry-just-give.gif") no-repeat 18px 16px;
+}
+
+
+
+
+

@@ -1,0 +1,106 @@
+#window #hero.things div{
+	width:130px;
+	margin-left:732px;
+}
+
+#window #content.things h2{
+	font-size:20px;
+	padding-bottom:12px;
+	clear:both;
+}
+
+#window #content.things h2.has-sub{
+	padding-bottom:2px;
+}
+#window #content.things h3{
+	font-size:16px;
+	padding-bottom:12px;
+	clear:both;
+}
+
+#window #content.things ul{
+	padding-bottom:12px;
+}
+
+#window #content.things ul li{
+	-moz-border-radius: 7px; 
+	-webkit-border-radius: 7px;
+	border-radius:7px;
+	
+	padding:10px;
+	width:275px;
+	margin-bottom:2px;
+	margin-right:2px;
+	float:left;
+}
+
+#window #content.things ul li.photo{
+	height:100px;
+	width:592px;
+	float:none;
+}
+
+#window #content.things ul li.photo p{
+	padding-bottom:7px;
+}
+#window #content.things ul li.photo.odd p{
+	margin-right:40px;
+}
+#window #content.things ul li.photo.even p{
+	width:455px;
+}
+
+#window #content.things ul li.photo .title{
+	padding-bottom:7px;
+}
+
+#window #content.things ul li.photo img{
+	-moz-border-radius: 7px; 
+	-webkit-border-radius: 7px;
+	border-radius:7px;
+}
+
+#window #content.things ul li.odd.photo img{
+	float:left;
+	margin-right:10px;
+}
+
+#window #content.things ul li.even.photo img{
+	float:right;
+}
+
+#window #content.things ul li.odd a{
+	color:#474136;
+}
+
+#window #content.things ul li.even a{
+	color:#756b59;
+}
+
+#window #content.things ul li.odd{
+	background:rgba(250, 222, 108, 0.79);
+	color:#474136;
+}
+
+#window #content.things ul li.even{
+	background:rgba(217, 236, 249, 0.7);
+}
+
+
+#window #content.things ul li .title{
+	font-weight:bold;
+	padding-bottom:2px;
+	font-size:12px;
+}
+
+#window #content.things ul li .url{
+	font-size:11px;
+	font-style:italic;
+	padding-bottom:3px;
+}
+
+#window #content.things ul li p{
+	padding-bottom:4px;
+}
+
+

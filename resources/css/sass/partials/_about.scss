@@ -1,0 +1,47 @@
+#window #hero.about div{
+	width:120px;
+	margin-left:742px;
+}
+
+#window #content.about #collage{
+	border:3px solid #d4cfc4;
+	margin-bottom:12px;
+}
+
+#window #content.about ul{
+	padding-top:12px;
+	background:url("../images/border-2px.png") repeat-x top left;
+}
+
+#window #content.about ul li{
+	width:259px;
+	padding-right:73px;
+	float:left;
+	min-height:206px;
+}
+#window #content.about ul li p{
+	padding:157px 0 100px 0;
+}
+
+#window #content.about ul li#team-danica{
+	background:url("../images/background-team-danica.jpg") no-repeat 0px 50px;
+}
+
+#window #content.about ul li#team-adam{
+	background:url("../images/background-team-adam.jpg") no-repeat 0px 50px;
+}
+
+
+#window #content.about ul li.last{
+	padding-right:0;
+}
+
+#window #content.about ul li h2{
+	font-size:20px;
+	padding-bottom:4px;
+}
+
+#window #content.about ul li h3{
+	font-size:16px;
+	padding-bottom:10px;
+}

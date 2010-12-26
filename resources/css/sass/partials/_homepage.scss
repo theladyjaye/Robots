@@ -1,0 +1,115 @@
+#window #hero.homepage div{
+	width:54px;
+	margin-left:808px;
+}
+
+#window #content.homepage #story{
+	clear:both;
+	margin-top:12px;
+	padding-top:12px;
+	background:url("../images/border-2px.png") repeat-x top left;
+}
+
+#window #content.homepage #story h2{
+	font-size:20px;
+	padding-bottom:15px;
+}
+
+#window #content.homepage #story p{
+
+}
+
+#window #content.homepage ul{
+	height:194px;
+}
+#window #content.homepage ul li{
+	float:left;
+	width:194px;
+	padding-right:6px;
+}
+
+#window #content.homepage ul li a{
+	cursor:pointer;
+	text-decoration:none;
+	display:block;
+}
+
+#window #content.homepage ul li.last{
+	padding-right:0;
+}
+
+#window #content.homepage ul li .section .details{
+	border:4px solid #d9ecf9;
+	width:186px;
+	height:137px;
+	margin-bottom:6px;
+	text-align:right;
+}
+
+#window #content.homepage ul li .section .details p:first-child{
+	margin-top:95px;
+}
+#window #content.homepage ul li .section .details p{
+	height:16px;
+	color:#fff;
+	background:rgba(112, 103, 88, 0.8);
+	padding-top:4px;
+	padding-right:8px;
+	margin-bottom:1px;
+}
+
+
+#window #content.homepage ul li .section h2{
+	color:#574f41;
+	font-size:20px;
+	font-family: "HelveticaNeueUltraLight", helvetica, verdana, sans-serif;
+	height:31px;
+	padding-left:23px;
+	padding-top:12px;
+}
+
+#window #content.homepage ul li .section.when .details{
+	background:url("../images/background-sunrise-springs.jpg") no-repeat top left;
+}
+
+#window #content.homepage ul li .section.when .details p{
+	margin-left:75px;
+}
+#window #content.homepage ul li .section.when .details p:first-child{
+	margin-left:85px;
+}
+
+#window #content.homepage ul li .section.when h2{
+	background:url("../images/background-when.jpg") no-repeat top left;
+}
+
+#window #content.homepage ul li .section.who .details{
+	background:url("../images/background-lucy-danica-adam.jpg") no-repeat top left;
+}
+
+#window #content.homepage ul li .section.who .details p{
+	margin-left:70px;
+}
+#window #content.homepage ul li .section.who .details p:first-child{
+	margin-left:80px;
+}
+
+#window #content.homepage ul li .section.who h2{
+	background:url("../images/background-who.jpg") no-repeat top left;
+}
+
+#window #content.homepage ul li .section.where .details{
+	background:url("../images/background-map.jpg") no-repeat top left;
+}
+
+#window #content.homepage ul li .section.where .details p{
+	margin-left:100px;
+}
+#window #content.homepage ul li .section.where .details p:first-child{
+	margin-left:117px;
+}
+
+#window #content.homepage ul li .section.where h2{
+	background:url("../images/background-where.jpg") no-repeat top left;
+}
+

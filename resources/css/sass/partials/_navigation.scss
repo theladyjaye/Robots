@@ -1,0 +1,68 @@
+$navigation-link-padding-right: 11px;
+#navigation {
+	position:absolute;
+	width:172px;
+	height:643px;
+	left:9px;
+	top:0;
+	background:url("../images/background-navigation.png") no-repeat top left;
+	padding-left:98px;
+	padding-top:87px;
+}
+
+#navigation ul{
+	
+}
+
+#navigation ul li{
+	height:32px;
+	width:143px;
+	margin-bottom:3px;
+	padding-bottom:3px;
+	background:url("../images/border-2px.png") repeat-x bottom left;
+}
+
+#navigation ul li a{
+	font-family: "HelveticaNeueUltraLight", helvetica, verdana, sans-serif;
+	height:25px;
+	font-size:17px;
+	display:block;
+	-moz-border-radius: 7px; 
+	-webkit-border-radius: 7px;
+	border-radius:7px;
+	color:#fff;
+	text-decoration:none;
+	padding:6px 0 0 $navigation-link-padding-right;
+	background:rgba(128, 119, 103, 0.79) url("../images/background-navigation-buttons.png") no-repeat;
+}
+
+#navigation ul li a.hola{
+	width:60px - $navigation-link-padding-right;
+	background-position:50px 6px;
+}
+
+#navigation ul li a.about-us{
+	width:119px - $navigation-link-padding-right;
+	background-position:109px 6px;
+}
+
+#navigation ul li a.wedding-party{
+	width:141px - $navigation-link-padding-right;
+	background-position:131px 6px;
+}
+
+#navigation ul li a.location{
+	width:89px - $navigation-link-padding-right;
+	background-position:79px 6px;
+}
+
+#navigation ul li a.things-to-do{
+	width:125px - $navigation-link-padding-right;
+	background-position:115px 6px;
+}
+
+#navigation ul li a.registry{
+	width:86px - $navigation-link-padding-right;
+	background-position:76px 6px;
+}
+

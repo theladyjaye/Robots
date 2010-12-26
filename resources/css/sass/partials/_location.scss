@@ -1,0 +1,58 @@
+#window #hero.location div{
+	width:86px;
+	margin-left:776px;
+}
+
+#window #content.location > p:first-child{
+	background:url("../images/border-2px.png") repeat-x bottom left;
+	padding-bottom:12px;
+	margin-bottom:12px;
+}
+
+#window #content.location div .content{
+	background:url("../images/border-2px.png") repeat-x bottom left;
+	padding-bottom:12px;
+	margin-bottom:12px;
+}
+
+#window #content.location div .content p{
+	padding-bottom:15px;
+}
+
+#window #content.location div.gist{
+	background:url("../images/background-weather.jpg") no-repeat left 24px;
+}
+
+#window #content.location div.gist ul li{
+	float:left;
+	width:275px;
+	padding-bottom:10px;
+	padding-right:35px;
+}
+
+#window #content.location div.gist ul li h3{
+	font-size:14px;
+	padding-bottom:5px;
+}
+
+#window #content.location div.gist ul li.cap{
+	padding-right:0;
+}
+
+#window #content.location div.weather{
+	background:url("../images/background-dusk.jpg") no-repeat left 24px;
+}
+
+#window #content.location div.getting-there{
+	background:url("../images/background-getting-there.jpg") no-repeat left 24px;
+}
+
+#window #content.location div.lodging{
+	background:url("../images/background-lodging.jpg") no-repeat left 24px;
+}
+
+
+#window #content.location div h2{
+	font-size:20px;
+	padding-bottom:95px;
+}
