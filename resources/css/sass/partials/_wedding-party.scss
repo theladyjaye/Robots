@@ -2,9 +2,60 @@
 	width:147px;
 	margin-left:715px;
 }
+#window #content.wedding-party ul li{
+	width:259px;
+	padding-right:73px;
+	float:left;
+	min-height:206px;
+}
+#window #content.wedding-party ul li .member{
+	padding-bottom:20px;
+}
+
+#window #content.wedding-party ul li .member.zoe{
+	background:url("../images/background-zoe.jpg") no-repeat 0px 26px;
+}
+
+#window #content.wedding-party ul li .member.meredith{
+	background:url("../images/background-meredith.jpg") no-repeat 0px 26px;
+}
+
+#window #content.wedding-party ul li .member.lucy{
+	background:url("../images/background-lucy.jpg") no-repeat 0px 26px;
+}
+
+#window #content.wedding-party ul li .member.kevin{
+	background:url("../images/background-kevin.jpg") no-repeat 0px 26px;
+}
+
+#window #content.wedding-party ul li .member.tom{
+	background:url("../images/background-tom.jpg") no-repeat 0px 26px;
+}
+
+#window #content.wedding-party ul li .member p{
+	padding-top:157px;
+}
 /*
-#window #content.wedding-party{
-	border:3px solid #d4cfc4;
-	margin-bottom:12px;
+#window #content.wedding-party ul li#team-danica{
+	background:url("../images/background-team-danica.jpg") no-repeat 0px 50px;
+}
+
+#window #content.wedding-party ul li#team-adam{
+	background:url("../images/background-team-adam.jpg") no-repeat 0px 50px;
 }
 */
+
+
+#window #content.wedding-party ul li.last{
+	padding-right:0;
+}
+
+#window #content.wedding-party ul li h2{
+	font-size:20px;
+	padding-bottom:20px;
+}
+
+#window #content.wedding-party ul li h3{
+	font-size:16px;
+	padding-bottom:10px;
+}
