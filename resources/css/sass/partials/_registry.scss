@@ -10,9 +10,7 @@
 }
 
 #window #content.registry ul li{
-	-moz-border-radius: 7px; 
-	-webkit-border-radius: 7px;
-	border-radius:7px;
+	@include rounded-corners;
 	width:595px;
 	height:72px;
 	border:1px solid #e1dfdc;

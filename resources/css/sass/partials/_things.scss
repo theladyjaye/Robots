@@ -23,9 +23,7 @@
 }
 
 #window #content.things ul li{
-	-moz-border-radius: 7px; 
-	-webkit-border-radius: 7px;
-	border-radius:7px;
+	@include rounded-corners;
 	
 	padding:10px;
 	width:275px;
@@ -55,9 +53,7 @@
 }
 
 #window #content.things ul li.photo img{
-	-moz-border-radius: 7px; 
-	-webkit-border-radius: 7px;
-	border-radius:7px;
+	@include rounded-corners;
 }
 
 #window #content.things ul li.odd.photo img{

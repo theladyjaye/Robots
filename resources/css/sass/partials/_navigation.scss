@@ -23,16 +23,11 @@ $navigation-link-padding-right: 11px;
 }
 
 #navigation ul li a{
-	/*font-family: "HelveticaNeueUltraLight", helvetica, verdana, sans-serif;*/
-	font-weight:100;
-	font-style:normal;
-	
+	@include font-definition-special;
 	height:25px;
 	font-size:17px;
 	display:block;
-	-moz-border-radius: 7px; 
-	-webkit-border-radius: 7px;
-	border-radius:7px;
+	@include rounded-corners;
 	color:#fff;
 	text-decoration:none;
 	padding:6px 0 0 $navigation-link-padding-right;

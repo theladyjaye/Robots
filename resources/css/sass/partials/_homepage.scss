@@ -75,10 +75,13 @@
 #window #content.homepage ul li .section h2{
 	color:#574f41;
 	font-size:20px;
-	font-family: "HelveticaNeueUltraLight", helvetica, verdana, sans-serif;
+	font-weight:100;
+	font-style:normal;
 	height:31px;
 	padding-left:23px;
 	padding-top:12px;
+	
+	@include font-definition-special;
 }
 
 #window #content.homepage ul li .section.when .details{
