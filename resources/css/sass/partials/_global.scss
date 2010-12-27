@@ -49,14 +49,14 @@ a{
 }
 
 #window #hero div{
-	height:27px;
+	height:25px;
 	width:300px;
 	position:absolute;
 	text-align:right;
 	margin-top:166px;
 	color:#fff;
 	font-size:22px;
-	padding:4px 13px 0 0;
+	padding:6px 13px 0 0;
 	background:rgba(143, 128, 101, 0.8);
 	
 	@include font-definition-special;
